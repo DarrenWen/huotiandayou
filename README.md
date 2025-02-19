@@ -6,7 +6,7 @@
 ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-2024.8.0-blue.svg?color=red)
 ![Latest Release](https://img.shields.io/github/v/release/knoop7/HuoTianDaYou?color=red)
 
-聚合AI工具，为智能家居增添无限乐趣！
+聚合AI工具，为智能家居增添无限乐趣！ 
 
 [安装](#安装步骤) • [高级用法](#高级用法) • [注意事项](#注意事项)
 
